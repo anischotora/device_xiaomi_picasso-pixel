@@ -124,7 +124,6 @@ PRODUCT_PACKAGES += \
     audio.primary.lito \
     audio.r_submix.default \
     audio.usb.default \
-    libaacwrapper \
     libaudiopreprocessing \
     libbatterylistener \
     libbundlewrapper \
