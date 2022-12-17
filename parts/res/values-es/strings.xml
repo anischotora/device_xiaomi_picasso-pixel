@@ -65,6 +65,28 @@
     <string name="music_headset_scenario_video">Video</string>
     <string name="music_headset_scenario_vocal">Voz</string>
     <string name="dirac_qs_tile_title">Ecualizador Dirac</string>
+    
+    <!-- Thermal Profiles -->
+    <string name="thermal_title">Perfiles térmicos</string>
+    <string name="thermal_summary">Ajusta los perfiles térmicos de cada aplicación para un rendimiento óptimo.</string>
+    <string name="thermal_default">Por defecto</string>
+    <string name="thermal_benchmark">Benchmark</string>
+    <string name="thermal_browser">Navegador web</string>
+    <string name="thermal_camera">Cámara</string>
+    <string name="thermal_dialer">Llamadas</string>
+    <string name="thermal_gaming">Juegos</string>
+    <string name="thermal_youtube">YouTube</string>
+    
+    <!-- Touch Control Settings -->
+    <string name="touch_control_title">Ajustar respuesta táctil</string>
+    <string name="touch_game_mode_title">Activar modo juego</string>
+    <string name="touch_game_mode_summary">Activar los ajustes manuales de respuesta táctil para una mejor experiencia gaming.</string>
+    <string name="touch_response_title">Respuesta táctil</string>
+    <string name="touch_response_summary">Controla la respuesta táctil.</string>
+    <string name="touch_sensitivity_title">Sensibilidad táctil</string>
+    <string name="touch_sensitivity_summary">Controla la sensibilidad táctil ante toques simultáneos o repetidos.</string>
+    <string name="touch_resistant_title">Control del área táctil</string>
+    <string name="touch_resistant_summary">Reduce la sensibilidad táctil en los bordes de la pantalla para evitar toques indeseados.</string>
 
     <!-- Clear Speaker -->
     <string name="clear_speaker_title">Limpiar altavoz</string>
